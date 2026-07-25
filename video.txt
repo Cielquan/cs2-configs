@@ -1,0 +1,9 @@
+MSAA: 4x
+Global Shadow: High
+Dyn. Shadow: All
+Model/Texture Detail: High
+Texture Filtering Mode: 4x
+Shader Detail: High
+Particle Detail High
+Ambient Occlusion: Medium
+HDR: Quality
